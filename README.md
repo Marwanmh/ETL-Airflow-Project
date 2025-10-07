@@ -24,7 +24,7 @@ The pipeline extracts data from PostgreSQL containing data about orders, their d
 ### 3. **Visualization**
 - Creates charts using Matplotlib (e.g., Total_Revenue_Per_Day.png)
 
-Technologies Used:
+# Technologies Used:
 -Python
 -Pandas, Matplotlib
 -PostgreSQL
